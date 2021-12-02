@@ -1,0 +1,165 @@
+﻿{
+   "AFSEnvironment" : 0,
+   "AFSUrl" : "https://activity.windows.com",
+   "AccountSettings" : [],
+   "ActivityStoreInfo" : [
+      {
+         "active" : true,
+         "activityStoreId" : "3FC9F062-0932-8E25-52CC-4F95D1FC3AB1",
+         "stableUserId" : "cfeec183be98aa8e"
+      },
+      {
+         "active" : true,
+         "activityStoreId" : "D26D4B16-03C5-D0A6-B6D3-1A98FD352056",
+         "stableUserId" : "3c55d9c8f08b0718"
+      },
+      {
+         "active" : true,
+         "activityStoreId" : "F16D218E-DCE2-861F-A2CD-D5B974FC29FC",
+         "stableUserId" : "AAD.dd467d66-2048-453a-a792-49a626d07bce"
+      }
+   ],
+   "AfcPrivacySettings" : {
+      "ActivityFeed" : 0,
+      "CloudSync" : 0,
+      "PublishUserActivity" : 0,
+      "UploadUserActivity" : 1
+   },
+   "AfsConnectivityEnabled" : true,
+   "AfsPostInitializeSyncWaitMs" : 10000,
+   "AfsSyncFrequencyMs" : 86400000,
+   "Authentication.Environment" : 0,
+   "BluetoothTransportEnabled" : true,
+   "BluetoothTransportHostingAllowed" : true,
+   "CcsApiVersion" : "/api/v1",
+   "CcsDefaultServerName" : "romeccs.microsoft.com",
+   "CcsExtendedPollingMode" : 0,
+   "CcsPollingBackoffEnabled" : false,
+   "CcsPollingInterval" : 0,
+   "CcsPollingMaxIntervalCount" : 0,
+   "CcsPollingMode" : 1,
+   "CcsSeenRequestIds" : [],
+   "CcsSeenRequestIdsLastUpdatedTime" : "0000-00-00T00:00:00.000",
+   "Cloud.SessionIdleTimeoutIntervalSecs" : 3600,
+   "CloudDataGroupPolicyActivitiyPolicies" : [
+      {
+         "BlockedOperationFlags" : 0,
+         "Scope" : {
+            "PermisionScope" : "",
+            "Type" : 11
+         },
+         "Source" : 1
+      },
+      {
+         "BlockedOperationFlags" : 0,
+         "Scope" : {
+            "PermisionScope" : "Microsoft.Credentials",
+            "Type" : 11
+         },
+         "Source" : 1
+      },
+      {
+         "BlockedOperationFlags" : 0,
+         "Scope" : {
+            "PermisionScope" : "Microsoft.Personalization",
+            "Type" : 11
+         },
+         "Source" : 1
+      },
+      {
+         "BlockedOperationFlags" : 0,
+         "Scope" : {
+            "PermisionScope" : "",
+            "Type" : 12
+         },
+         "Source" : 1
+      },
+      {
+         "BlockedOperationFlags" : 0,
+         "Scope" : {
+            "PermisionScope" : "Microsoft.Credentials",
+            "Type" : 12
+         },
+         "Source" : 1
+      },
+      {
+         "BlockedOperationFlags" : 0,
+         "Scope" : {
+            "PermisionScope" : "Microsoft.Personalization",
+            "Type" : 12
+         },
+         "Source" : 1
+      }
+   ],
+   "CloudDataMDMActivitiyPolicies" : [
+      {
+         "BlockedOperationFlags" : 0,
+         "Scope" : {
+            "PermisionScope" : "",
+            "Type" : 11
+         },
+         "Source" : 2
+      },
+      {
+         "BlockedOperationFlags" : 0,
+         "Scope" : {
+            "PermisionScope" : "",
+            "Type" : 12
+         },
+         "Source" : 2
+      }
+   ],
+   "CloudTransportEnabled" : true,
+   "CloudTransportHostingAllowed" : true,
+   "CustomAuthClsid" : "",
+   "DdsAadRegisterUrl" : "",
+   "DdsAadSyncUrl" : "",
+   "DdsMsaRegisterUrl" : "",
+   "DdsMsaSyncUrl" : "",
+   "DdsRegistrationEnabled" : true,
+   "FastPathEnabled" : true,
+   "FastPathSequencingEnabled" : true,
+   "FlowControl.AckSendInterval" : 100,
+   "FormatVersion" : 50,
+   "InboundMessageThreadPoolCount" : 12,
+   "LargePayload.ExtendedTimeoutSecs" : 180,
+   "LargePayload.ThresholdBytes" : 65536,
+   "LatestCdpUsedTime" : "0000-00-00T00:00:00.000",
+   "LatestFixAccountToastTime" : {
+      "00037FFE364D6523" : "2021-11-13T09:05:20.525",
+      "00037FFEB4ADF707" : "2021-11-08T13:52:42.597"
+   },
+   "LowestRssiAllowedForBleDiscovery" : -75,
+   "MaximumConcurrentBluetoothSends" : 5,
+   "MaximumSocketBuffers" : 32,
+   "MaximumUnreliableMessageQueueSize" : 100,
+   "Metrics.iKey" : "A-Rome",
+   "OutboundMessageThreadPoolCount" : 1,
+   "POBoxes" : [
+      {
+         "alternateId" : "cortana.xdevice",
+         "name" : "ShareFileBinaryHost",
+         "packageId" : "cortana.xdevice",
+         "type" : "binary"
+      },
+      {
+         "alternateId" : "cortana.xdevice",
+         "name" : "NotificationActionBinaryHost",
+         "packageId" : "cortana.xdevice",
+         "type" : "binary"
+      }
+   ],
+   "ProtocolLiveTraceEnabled" : false,
+   "ProtocolLiveTraceServer" : "",
+   "ProtocolVersionBrokerEnabled" : false,
+   "TcpTransportEnabled" : true,
+   "TcpTransportHostingAllowed" : true,
+   "TcpTransportUpgradeRequired" : false,
+   "TraceLog.EnabledHandlerTypes" : 18,
+   "TraceLog.Level" : 3,
+   "UdpTransportEnabled" : true,
+   "UdpTransportHostingAllowed" : true,
+   "VirtualDeviceId" : "E409F5E7-D0DF-B40A-829C-3B357ACB9333",
+   "WifiDirectTransportEnabled" : true,
+   "WifiDirectTransportHostingAllowed" : false
+}
